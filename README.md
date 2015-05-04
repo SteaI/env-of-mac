@@ -63,6 +63,11 @@
 
 <br/>
 
+
+## 컴퓨터 이름(Computer name) 바꾸기
+
+설정 -> 공유 -> 컴퓨터 이름
+
 # 2.자주 쓰는 도구들 설치
 
 ## appstore 에서 기존 구매 앱들 설치
@@ -187,3 +192,10 @@ shell이라면 zsh !! bash 안녕~! (but 저사양 맥북에서는 때때로 느
 ## go2shell 설치 후 설정 (mac appstore)
 finder에서 현재 폴더로 터미널 띄우기
 http://zipzapmac.com/go2shell
+
+
+# for Unix Shell
+
+## autojump
+Rank 기반 디렉터리 이동
+https://github.com/joelthelion/autojump
