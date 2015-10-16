@@ -199,3 +199,6 @@ http://zipzapmac.com/go2shell
 ## autojump
 Rank 기반 디렉터리 이동
 https://github.com/joelthelion/autojump
+
+## vim related
+https://github.com/bling/vim-airline
