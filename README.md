@@ -202,3 +202,24 @@ https://github.com/joelthelion/autojump
 
 ## vim related
 https://github.com/bling/vim-airline
+
+## git diff highlight
+
+curl https://raw.githubusercontent.com/git/git/master/contrib/diff-highlight/diff-highlight > /usr/local/bin/diff-highlight && chmod +x /usr/local/bin/diff-highlight
+
+## git config 
+```
+alias.co=checkout
+alias.edit=!f() { git diff --name-status --diff-filter=U | cut -f2 ; }; vi `f`
+alias.add-unmerged=!f() { git diff --name-status --diff-filter=U | cut -f2 ; }; git add `f`
+
+pager.log=diff-highlight | less -F -X
+pager.show=diff-highlight | less -F -X
+pager.diff=diff-highlight | less -F -X
+
+rerere.enabled=true
+
+pull.rebase=true
+credential.helper=cache --timeout=604800
+
+```
