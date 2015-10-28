@@ -184,6 +184,9 @@ shell이라면 zsh !! bash 안녕~! (but 저사양 맥북에서는 때때로 느
 
 [freemacsoft.net/appcleaner](http://www.freemacsoft.net/appcleaner/)
 
+## mouse wheel 만 natrual scroll 에서 제외시켜주는 앱
+[http://pilotmoon.com/scrollreverser/](http://pilotmoon.com/scrollreverser/)
+
 ## Developer Color Picker 설치
 개발자용 컬러 피커. 색을 다루는 개발자라면!
 
