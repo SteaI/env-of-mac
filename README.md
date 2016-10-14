@@ -134,8 +134,8 @@ why? 오른쪽 command를 한영전환으로 변경. 키 반복입력을 빠르�
 
 다운로드:	 [https://pqrs.org/osx/karabiner/](https://pqrs.org/osx/karabiner/)
 
-	change command_r to command_r, send Delete를 해제하고
-	change command_r to command_r, 'when you type command_r only send command + space' 를 선택
+	Command_R to Command_R (+when you type Command_r only, toggle IM) -> In Mac apps
+	for Korean 항목에서 키보드 선택(101/103키)
 
 	Key repeat에서 wait 타임을 83 -> 30으로 변경
 
