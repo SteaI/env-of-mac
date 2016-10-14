@@ -147,6 +147,9 @@ Mac의 이상?불편?한 finder를 개선시켜줌
 
 [http://totalfinder.binaryage.com](http://totalfinder.binaryage.com)
 
+## Slow Quit App
+맥에서 키보드 딜레이 문제로 의도치 않게 앱이 종료되는걸 방지해 줌
+https://github.com/dteoh/SlowQuitApps
 
 ## dropbox 설치
 [www.dropbox.com](https://www.dropbox.com/)
@@ -160,7 +163,7 @@ App Launcher (no gomin, go install)
 메뉴바 아이콘이 길어지는 걸 해결
 http://www.macbartender.com
 
-## iterm2 설치
+## iterm 설치
 기본 터미널보다 우수함. 
 
 [http://www.iterm2.com/](http://www.iterm2.com/)
@@ -183,13 +186,6 @@ shell이라면 zsh !! bash 안녕~! (but 저사양 맥북에서는 때때로 느
 설치된 앱을 깨끗하게 지우자
 
 [freemacsoft.net/appcleaner](http://www.freemacsoft.net/appcleaner/)
-
-## mouse wheel 만 natrual scroll 에서 제외시키기
-
-karabinar 이용하면
-
-- General > Don't remap Apple's pointing devices
-- Pointing Device > Reverse scrolling direction > Reverse Vertical Scrolling
 
 ## Developer Color Picker 설치
 개발자용 컬러 피커. 색을 다루는 개발자라면!
