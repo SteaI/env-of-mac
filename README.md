@@ -138,6 +138,8 @@ why? 오른쪽 command를 한영전환으로 변경. 키 반복입력을 빠르�
 	for Korean 항목에서 키보드 선택(101/103키)
 
 	Key repeat에서 wait 타임을 83 -> 30으로 변경
+	
+	Use PC Style Home/End <- keyboard 를 따로 쓸 경우
 
 ## Seil: caps lock 을 ctrl 키로 변경 (left control:: 59)
 https://pqrs.org/osx/karabiner/seil.html.en 
